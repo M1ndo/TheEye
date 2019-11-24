@@ -3,7 +3,7 @@
 
 # Installation :
 ```bash
-git clone https://github.com/m1ndo/TheEye.git
+git clone https://github.com/r2dr0dn/TheEye.git
 cd TheEye
 chmod +x installer.sh
 sudo ./installer.sh
@@ -14,4 +14,4 @@ pip2 install simplejson
 python TheEye.py
 ```
 # Author 
-## ybenel 
+## r2dr0dn

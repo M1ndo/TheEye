@@ -1,5 +1,5 @@
 #!/usr/bin/python2
-# Created ybenel
+# Created ybenel 
 
 import optparse
 import socket,datetime
@@ -113,7 +113,7 @@ print("        "+unknown13+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+unknown14+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+unknown15+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Blue+"                   "+unknown+"["+unknown15+"TheEye"+unknown+"]"+unknown+"         ")
-print("     "+purple+"             "+unknown+"["+unknown9+"Created By ybenel"+unknown+"]"+unknown+"    "+Reset+"\n")
+print("     "+purple+"             "+unknown+"["+unknown9+"  Created By ybenel"+unknown+"]"+unknown+"    "+Reset+"\n")
 parse = optparse.OptionParser(unknown10+"""\
 
 [$]                                                                   [$]
@@ -507,3 +507,4 @@ def main():
 
 if __name__=="__main__":
         main()
+#'='!!
